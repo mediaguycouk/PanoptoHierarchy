@@ -3,3 +3,8 @@ Looks for folders in the Panopto root in the format ABCD1234-12345-15-16... and 
 
 Put your server in app.config
 Run as a scheduled task via PanoptoHierarchy.exe /u [admin username] /p [admin password]
+
+Based on 
+http://www.mediaguy.co.uk/panopto-api/panopto-api-103-organise-course-folders-into-subfolders/
+and
+http://www.mediaguy.co.uk/panopto-api/panopto-api-104-adding-group-permissions-to-the-parent-folders/
