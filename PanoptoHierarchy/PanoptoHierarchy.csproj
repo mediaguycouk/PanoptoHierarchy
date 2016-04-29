@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PanoptoHierarchy</RootNamespace>
-    <AssemblyName>PanoptoHierarchy</AssemblyName>
+    <AssemblyName>PanoptoHierarchyAnon</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
