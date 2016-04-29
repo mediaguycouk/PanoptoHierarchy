@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="97b7b1e4-506f-4f7a-8235-42c6a5f3fa3d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SessionManagement.disco" MetadataType="Disco" ID="ae5dda82-df8a-4cbf-b381-a4dfefe571b9" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?disco" />
+    <MetadataFile FileName="SessionManagement.xsd" MetadataType="Schema" ID="8d000fe9-2e9f-4d66-842c-afb992a3fd0a" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?xsd=xsd2" />
+    <MetadataFile FileName="SessionManagement1.xsd" MetadataType="Schema" ID="131c5dcf-7212-4299-9b53-b62f0370888a" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?xsd=xsd4" />
+    <MetadataFile FileName="SessionManagement2.xsd" MetadataType="Schema" ID="c5c8b1b4-9feb-4313-addb-9c44a3aa95a6" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?xsd=xsd5" />
+    <MetadataFile FileName="SessionManagement3.xsd" MetadataType="Schema" ID="9683d737-5d55-4b12-9f6d-bdcfcbb9d797" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?xsd=xsd0" />
+    <MetadataFile FileName="SessionManagement.wsdl" MetadataType="Wsdl" ID="4985919b-11be-4fc5-9fc4-27ac39d4f939" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?wsdl" />
+    <MetadataFile FileName="SessionManagement4.xsd" MetadataType="Schema" ID="3e4e2b6d-33e2-4c0d-8dc4-200cd2c9b545" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?xsd=xsd1" />
+    <MetadataFile FileName="SessionManagement5.xsd" MetadataType="Schema" ID="088bbaf7-1fe9-41a6-87a1-6b61a54096d0" SourceId="1" SourceUrl="https://coursecast.devdomain.soton.ac.uk/Panopto/PublicAPISSL/4.6/SessionManagement.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
